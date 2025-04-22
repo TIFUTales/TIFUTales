@@ -1,8 +1,3 @@
-Sure! Here's a clean and professional **GitHub README.md** content for your **TIFU Tales** project — assuming you're building a site, bot, or script related to narrating TIFU stories (you can tweak based on your actual use case):
-
----
-
-```markdown
 # 🧨 TIFU Tales
 
 Welcome to **TIFU Tales** — a project that brings the internet’s most hilarious and awkward "Today I F*cked Up" stories to life. Whether you're building a YouTube narration channel, a Reddit story bot, or an archive of epic fails, this repo has everything you need to get started.
@@ -58,8 +53,3 @@ Inspired by the TIFU subreddit and the art of storytelling. Made with regret (an
 ## 📜 License
 
 MIT License. Use it, remix it, just don’t upload your own TIFU here 😉.
-```
-
----
-
-Want me to tailor this for a **YouTube automation setup**, **Reddit scraper**, or something else specific you're building under *TIFU Tales*?
