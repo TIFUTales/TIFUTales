@@ -49,6 +49,9 @@ tifu-tales/
 ## 🧠 Credits
 
 Inspired by the TIFU subreddit and the art of storytelling. Made with regret (and laughter).
+   - https://medium.com/@tifutales
+   - https://x.com/TIFUTales
+   - https://www.youtube.com/@TIFUTales
 
 ## 📜 License
 
